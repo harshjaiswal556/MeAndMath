@@ -4,9 +4,9 @@ let client = AgoraRTC.createClient({ mode: 'rtc', codec: "vp8" })
 //#2
 let config = {
     appid: '9514f1393c6f4c18942080b7d79bc9e8',
-    token: '0069514f1393c6f4c18942080b7d79bc9e8IADGRs7mHP3XpqBSEL1XoSfhILTxo41DXOw09ls+nXAcoLjSAwoAAAAAEADbqsx0lYj2YQEAAQCbiPZh',
+    token: '0069514f1393c6f4c18942080b7d79bc9e8IABcGMVYaCgkQJ6gRQSmUeWfbRpOpk1zNXkj6wBMOpYqsCwGxv8AAAAAEADbqsx0b/T3YQEAAQB19Pdh',
     uid: null,
-    channel: 'MeandMath',
+    channel: 'Video call',
 }
 
 //#3 - Setting tracks for when user joins
